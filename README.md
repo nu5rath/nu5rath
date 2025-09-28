@@ -1,16 +1,28 @@
-## Hi there 👋
+<h2 align="center">hello, i'm nusrath</h1>
+<h4 align="center"> i'm a student full-stack developer </h3>
 
-<!--
-**nu5rath/nu5rath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ i have dabbled a bit into everything. 
 
-Here are some ideas to get you started:
+ *if needed, contact me for my portfolio.*
+ 
+<details>
+<summary>
+  more stuff about me
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- i'm currently working on **games development**
+
+- i was working on **a healthcare application**
+
+- i am planning to work on a new **piece of music** for said game.
+
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nu5rath&size_weight=0.5&layout=compact&count_weight=0.5&theme=shadow_red&bg_color=00000000)-->
+
+thank you for viewing my profile, and wanting to learn more about me. have a nice day. 
+
+
+<p align="left">
+</p>
+
+</details>
+
