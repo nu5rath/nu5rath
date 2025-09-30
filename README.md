@@ -1,7 +1,7 @@
 <h2 align="center">hello, i'm nusrath</h1>
 <h4 align="center"> i'm a student full-stack developer </h3>
 
- i have dabbled a bit into everything. 
+i'm currently (mostly) preoccupied with university.
 
  *if needed, contact me for my portfolio.*
  
@@ -10,7 +10,8 @@
   more stuff about me
 </summary>
 
-- i'm currently working on **games development**
+  
+- i'm working in **games development** 
 
 - i was working on **a healthcare application**
 
